@@ -19,6 +19,7 @@ I'm excited to continue exploring new technologies and contributing to projects 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+#
 
 ![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Nayte&show_icons=true&bg_color=00000000)
 
