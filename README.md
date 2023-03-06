@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Andy Schunke, a full-stack developer with a passion for coding and contributing to projects.
 ![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Nayte&show_icons=true&bg_color=00000000)
 
 📫 How to reach me: schunke.andy@gmail.com
