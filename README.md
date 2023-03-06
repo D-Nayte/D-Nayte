@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=D_Nayte&show_icons=true&bg_color=00000000)
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Nayte&show_icons=true&bg_color=00000000)
 <!--
 **D-Nayte/D-Nayte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
